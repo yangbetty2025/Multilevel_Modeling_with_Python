@@ -1,4 +1,4 @@
-# Multilevel Modeling Using Python
+# Multilevel Modeling with Python
 ## Description
 This is a step-by-step demonstration on how to conduct a multilevel regression analysis using Python to investigate (1) the effects of Heat Vulnerability Index (HVI) and the median age of a given neighborhood in New York City on the percentage of adults in that neighborhood with poor physical health, and (2) whether those effects differ for each of the five boroughs.<br>
 <br>
@@ -15,7 +15,7 @@ In this study, the health outcome (the dependent variable *Y*) is the percentage
 **Step 1: Understanding a Multilevel Regression Model**<br>
 •	For an overview on multilevel regressions: [Multilevel Modeling: A Comprehensive Guide for Data Scientists](https://www.datacamp.com/tutorial/multilevel-modeling) <br>
 •	For an example of how to conduct a multilevel regression using Python: [Advanced Statistics: Multilevel Regression](https://advstats.psychstat.org/python/multilevel/index.php) <br>
-•	For explanation on grand mean centering vs. cluster mean centering: [Centering Options and Interpretations] (https://www.learn-mlms.com/08-module-8.html)<br>
+•	For explanation on grand mean centering vs. cluster mean centering: [Centering Options and Interpretations](https://www.learn-mlms.com/08-module-8.html)<br>
 <br>
 **Step 2: Data Extraction / Manipulation** <br>
 This analysis uses three datasets that have been extracted and cleaned: <br>
