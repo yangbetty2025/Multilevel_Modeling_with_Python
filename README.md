@@ -15,7 +15,7 @@ In this study, the health outcome (the dependent variable *Y*) is the percentage
 **Step 1: Understanding a Multilevel Regression Model**<br>
 •	For an overview on multilevel regressions: [Multilevel Modeling: A Comprehensive Guide for Data Scientists](https://www.datacamp.com/tutorial/multilevel-modeling) <br>
 •	For an example of how to conduct a multilevel regression using Python: [Advanced Statistics: Multilevel Regression](https://advstats.psychstat.org/python/multilevel/index.php) <br>
-•	For explanation on grand mean centering vs. cluster mean centering: [Centering Options and Interpretations] (https://www.learn-mlms.com/08-module-8.html)
+•	For explanation on grand mean centering vs. cluster mean centering: [Centering Options and Interpretations] (https://www.learn-mlms.com/08-module-8.html)<br>
 <br>
 **Step 2: Data Extraction / Manipulation** <br>
 This analysis uses three datasets that have been extracted and cleaned: <br>
