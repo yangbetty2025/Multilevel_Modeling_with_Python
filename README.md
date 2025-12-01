@@ -58,7 +58,7 @@ Libraries used for data analysis were: *statsmodels.api* and *statsmodels.formul
 •	Finally, a multilevel model (mixed effects linear model) is specified to investigate fixed effects and random effects of the predictor variables. <br>
 <br>
 **Step 5: Interpretations of Results**<br>
-Given the *F*-statistics from model results, **HVI** is ia significant predictor both in slope and intercept, while Median Age is not. <br>
+Given the *F*-statistics from model results, **HVI** is a **significant predictor** both in slope and intercept, while Median Age is not. <br>
 A regression line plot of varying intercepts and slopes for different boroughs serves as a visual illustration that the relationship between poor physical health and HVI (while holding median age constant) is *not fixed*, but rather, borough dependent. <br>
 
 ## Further Uses
