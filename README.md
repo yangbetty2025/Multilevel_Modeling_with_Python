@@ -42,7 +42,7 @@ These libraries: *numpy*,  *matplotlib.pyplot*, MaxNLocator  from *matplotlib.ti
 <br>
 It is visually evident from the multicolor scatter plots that each borough forms a **cluster**, which supports the use of multilevel regression over regular (single level) regression. <br>
 <br>
-We can see that there is a **positive  relationship** between **Percentage of Residents with Poor Physical Health* *and average **HVI** for each zip code. Namely, the higher the Heat Vulnerability Index, the higher the percentage of residents with poor physical health. <br>
+We can see that there is a **positive  relationship** between **Percentage of Residents with Poor Physical Health** and average **HVI** for each zip code. Namely, the higher the Heat Vulnerability Index, the higher the percentage of residents with poor physical health. <br>
 <br>
 It is worth noting that, for the multilevel regression, both predictors  (average *HVI* and *Median Age*) were **cluster-mean centered**, which means the arithmetic means of HVI and Median Age for each cluster (borough) were subtracted from each observation’s HVI and Median Age values, respectively, in the corresponding borough. <br>
 <br>
