@@ -77,7 +77,7 @@ For example, by using *PercentCollege* and *PercentMarried* as predictors (*X*�
 <br>
 **df02_HVI_Averages.csv** (extracted from [NYC Data Portal: Heat Vulnerability Index]( https://a816-dohbesp.nyc.gov/IndicatorPublic/data-features/hvi/)) contains the following columns:<br>
 •	*Zip*: five-digit zip codes used in NYC <br>
-•	*Borough*: two-letter acronym for each the five boroughs of NYC: BX (Bronx), BK (Brooklyn), MN (Manhattan), QN (Queens), and SI (Station Island). <br>
+•	*Borough*: BX (Bronx), BK (Brooklyn), MN (Manhattan), QN (Queens), and SI (Station Island). <br>
 •	*avgHVI*: Heat Vulnerability Index ranking from 1 to 5, with 1 indicating the associated neighborhood being least vulnerable and 5 the most vulnerable. Four factors were used in calculating the HVI for each neighborhood: (i) daytime summer surface *temperature*, (ii) availability of *air conditioning*, (iii) amount of *green space*, and (iv) *median income* as a proxy for the likelihood of being able to afford air conditioning.  <br>
 Some zip codes span over multiple neighborhoods. In this case, a simple average of HVI is taken for those zip codes to create this *avgHVI* variable. <br>
 <br>
